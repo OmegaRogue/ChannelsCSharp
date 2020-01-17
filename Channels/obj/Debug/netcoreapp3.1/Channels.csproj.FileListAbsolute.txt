@@ -1,0 +1,8 @@
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\bin\Debug\netcoreapp3.1\Channels.deps.json
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\bin\Debug\netcoreapp3.1\Channels.dll
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\bin\Debug\netcoreapp3.1\Channels.pdb
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\obj\Debug\netcoreapp3.1\Channels.csprojAssemblyReference.cache
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\obj\Debug\netcoreapp3.1\Channels.AssemblyInfoInputs.cache
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\obj\Debug\netcoreapp3.1\Channels.AssemblyInfo.cs
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\obj\Debug\netcoreapp3.1\Channels.dll
+C:\Users\OmegaRogue\RiderProjects\Channels\Channels\obj\Debug\netcoreapp3.1\Channels.pdb
